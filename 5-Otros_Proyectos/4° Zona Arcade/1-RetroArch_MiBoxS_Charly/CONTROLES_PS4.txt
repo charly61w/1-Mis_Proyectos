@@ -1,0 +1,2 @@
+DualShock 4 - mantener Share + PS para emparejar por Bluetooth.
+RetroArch lo detectará automáticamente.

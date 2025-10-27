@@ -1,0 +1,49 @@
+from flask import Flask, request, jsonify
+import mysql.connector
+from config import DB_CONFIG
+from datetime import datetime
+
+app = Flask(__name__)
+
+def conectar_db():
+    return mysql.connector.connect(**DB_CONFIG)
+
+@app.route('/registrar', methods=['GET'])
+def registrar_asistencia():
+	dni = request.args.get('dni')
+	profesor = request.args.get('profesor', 'Sin nombre')
+
+	if not dni:
+    	return jsonify({"estado": "error", "mensaje": "DNI no recibido"}), 400
+
+	conn = conectar_db()
+	cursor = conn.cursor(dictionary=True)
+
+	try:
+    	cursor.execute("SELECT id_alumno, nombre, apellido FROM alumnos WHERE dni = %s", (dni,))
+    	alumno = cursor.fetchone()
+
+    	if not alumno:
+        	return jsonify({"estado": "error", "mensaje": "Alumno no encontrado"}), 404
+
+    	now = datetime.now()
+    	cursor.execute("""
+        	INSERT INTO asistencia (id_alumno, fecha_hora, profesor)
+        	VALUES (%s, %s, %s)
+    	""", (alumno['id_alumno'], now, profesor))
+    	conn.commit()
+
+    	return jsonify({
+        	"estado": "ok",
+        	"mensaje": f"Asistencia registrada: {alumno['nombre']} {alumno['apellido']}",
+        	"hora": now.strftime("%Y-%m-%d %H:%M:%S")
+    	})
+
+	except Exception as e:
+    	return jsonify({"estado": "error", "mensaje": str(e)}), 500
+	finally:
+    	cursor.close()
+    	conn.close()
+
+if __name__ == '__main__':
+	app.run(host='0.0.0.0', port=5000, debug=True)

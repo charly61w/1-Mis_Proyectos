@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0">
+    <title>HidrolavEco</title>
+    <link rel="stylesheet" href="estilo.css">
+    <link rel="stylesheet" href="font.css">
+
+    <link href="https://fonts.googleapis.com/css2?family=Poppins&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
+
+    <script src="jquery-3.6.0.js"></script>
+  </head>
+  <body>
+    <header>
+      <div class="contenedor">
+        <div class="menu">
+          <p id="texto1">Hidrolav<sub><span>Eco</span></sub></p>
+        </div>
+      </div>
+      <div class="titular">
+      </div>
+    </header>
+    <div class="social-bar">
+      <a href="https://www.facebook.com/" class="icon icon-facebook" target="_blank"></a>
+      <a href="https://wa.me/5493764609804" class="icon icon-whatsapp" target="_blank"></a>
+    </div>
+    <section>
+      <div class="contenedor">
+        <h3><b><big><u>¿Porque contratar nuestro servicio?</u></big></b></h3>
+        <div class="contenedor-porque">
+          <div class="porque-singular">
+            <img src="imagenes/quienes.png" width="50" height="50">
+            <h4>Quienes Somos:</h4>
+            <p>Somos una empresa misionera que brinda un servicio     eficaz, rápido y diferente.
+              HidrolavEco tiene como objetivo principal la prestación de servicios de Limpiezas de Veredas Comerciales y Particulares.</p>
+          </div>
+          <div class="porque-singular">
+            <img src="imagenes/ambiente.png" width="50" height="50">
+            <h4>Cuidado del Medio Ambiente:</h4>
+            <p>Nuestro equipo de lavado se abastese de agua filtrada  de río (no usamos agua potable).
+            Productos de Limpieza Biodegradables.</p>
+          </div>
+          <div class="porque-singular">
+            <img src="imagenes/como.png" width="50" height="50">
+            <h4>Como lo hacemos:</h4>
+            <p>Nuestro sistema de Limpieza a traves del Hidrolavado a alta presión nos permite brindarle un servicio eficiente, practico y económico.
+            Mediante un Equipo Autonomo (llevamos: hidrolavadora que no requiere de electricidad, agua en una cisterna y productos ) nuestro método único de trabajo hace que la vereda se mantenga limpia por mas tiempo. Ud ahorrara en agua, (electricidad si realiza la limpieza con hidro) y productos de limpieza.</p>
+          </div>
+          <div class="porque-singular">
+            <img src="imagenes/cliente.png" width="50" height="50">
+            <h4>Beneficios para el cliente:</h4>
+            <p>La vereda se mantendra limpia regularmente y en mejora constante.
+            Mejoramos la imagen de su local,
+            Ahorro de tiempo y dinero.
+            Servicio seguro y eficiente. </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section>
+
+      <div class="contenedor">
+        <a name="trabajo"></a>
+        <h3 class="titulo"><b><big><u>Mis Trabajos</u></b></big></h3>
+        <div class="owl-carousel">
+          <div><img src="imagenes/mistrabajos/foto1.jpg"></div>
+          <div><img src="imagenes/mistrabajos/foto2.jpg"></div>
+          <div><img src="imagenes/mistrabajos/foto3.jpg"></div>
+          <div><img src="imagenes/mistrabajos/foto4.jpg"></div>
+          <div><img src="imagenes/mistrabajos/foto5.jpg"></div>
+          <div><img src="imagenes/mistrabajos/foto6.jpg"></div>
+          <div><img src="imagenes/mistrabajos/foto7.jpg"></div>
+          <div><img src="imagenes/mistrabajos/foto8.jpg"></div>
+
+        </div>
+      </div>
+    </section>
+
+    <script src="owlcarousel/jquery.min.js"></script>
+    <script src="owlcarousel/owl.carousel.min.js"></script>
+    <script>
+      $('.owl-carousel').owlCarousel({
+        loop:true,
+        margin:10,
+        nav:true,
+        responsive:{
+          0:{
+            items:1
+          },
+          600:{
+            items:3
+          },
+          1000:{
+            items:4
+          },
+        }
+      })
+      $('.menu-icon').click(function(){
+       $('header nav').slideToggle();
+       })
+    </script>
+    <footer class="footer">
+      <div class="contenedor">
+        <a name="contacto"></a>
+        <p>Contactanos:</p>
+        <p>hidrolaveco@gmail.com</p>
+        <p>+543764609804</p>
+      </div>
+    </footer>
+  </body>
+</html>

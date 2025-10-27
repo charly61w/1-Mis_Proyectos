@@ -1,0 +1,29 @@
+head:
+	<link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+	<link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css">
+
+
+body:
+	<script src="owlcarousel/jquery.min.js"></script>
+	<script src="owlcarousel/owl.carousel.min.js"></script>
+	<script>
+		$('.owl-carousel').owlCarousel({
+			loop:true,
+			margin:10,
+			nav:true,
+			responsive:{
+				0:{
+					items:1
+				},
+				600:{
+					items:3
+				},
+				1000:{
+					items:4
+				},
+			}
+		})
+    </script>
+
+
+

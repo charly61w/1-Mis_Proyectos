@@ -1,0 +1,2 @@
+Coloca tus ROMs en las carpetas dentro de /ROMs.
+Guarda automáticos y manuales se generan en /SAVES.

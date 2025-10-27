@@ -1,0 +1,78 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#pantalla-dividida {
+    display: flex;
+}
+
+#ced {
+    margin: auto;
+    display: flex;
+    justify-content: flex-start;
+    height: 20%;
+    width: 35%;
+    margin-left: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 40px;
+}
+
+p {
+    font-size: 30px;
+    padding-left: 40px;
+    margin-bottom: -20px;
+    font-weight: bold;
+    font-style: italic;
+}
+#apellido {
+    padding-left: 90px;
+}
+
+.izquierda {
+    background: url(imagenes/portalmaria1.jpg);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+}
+
+.derecha {
+    background: url(imagenes/portalnico1.png);
+    background-size: cover;
+    background-position: center;
+    width: 50%;
+    height: 100vh;
+}
+
+#boton-izquierda {
+    font-family: 'STIX Two Text', serif;
+    text-decoration: none;
+    font-size: 30px;
+    padding: 20px;
+    background-color: #fff;
+    color: #000;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 190px;
+    margin-top: 20%;
+}
+
+/* a::first-letter {
+  font-size: 4rem;
+} La primer letra es mas grande */
+
+/* #boton-derecha {
+    text-decoration: none;
+    padding: 20px;
+    color: #fff;
+    border: 1px solid #fff;
+    border-radius: 30px;
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 180px;
+    margin-top: 50%;
+} */

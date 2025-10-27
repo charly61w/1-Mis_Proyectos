@@ -1,0 +1,30 @@
+<!-- templates/index.html -->
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Control de Asistencia</title>
+</head>
+<body>
+    <h1>Listado de Alumnos</h1>
+    <ul>
+        {% for alumno in alumnos %}
+            <li>{{ alumno.nombre }} {{ alumno.apellido }} - {{ alumno.documento }}</li>
+        {% endfor %}
+    </ul>
+
+    <h2>Agregar Alumno</h2>
+    <form method="POST" action="{{ url_for('agregar') }}">
+        <input type="text" name="nombre" placeholder="Nombre" required>
+        <input type="text" name="apellido" placeholder="Apellido" required>
+        <input type="text" name="documento" placeholder="Documento" required>
+        <select name="tipo">
+            <option value="DNI">DNI</option>
+            <option value="LC">LC</option>
+            <option value="LE">LE</option>
+        </select>
+        <button type="submit">Agregar</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,1221 @@
+
+<div class="tab-content">
+<div role="tabpanel" class="tab-pane fade in active" id="14-fitness-home">
+<div class="description-sport">Brinda mayor elasticidad a la musculatura, mejorando la postura y aliviando dolores musculares, de espalda, al fortalecer el anillo muscular a nivel de la columna lumbar.</div>
+<ul class="list-unstyled list-activities">
+<li><a href="#14-fitness-80-aero-box" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aero Box</span></a></li>
+<li><a href="#14-fitness-81-aero-latino" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aero Latino</span></a></li>
+<li><a href="#14-fitness-83-body-attack" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Body Attack</span></a></li>
+<li><a href="#14-fitness-84-body-balance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Body Balance</span></a></li>
+<li><a href="#14-fitness-85-body-combat" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Body Combat</span></a></li>
+<li><a href="#14-fitness-87-body-pump" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Body Pump</span></a></li>
+<li><a href="#14-fitness-89-body-step" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Body Step</span></a></li>
+<li><a href="#14-fitness-91-gap" class="" data-toggle="tab" style="color:#5a4cdf;"><span>GAP</span></a></li>
+<li><a href="#14-fitness-92-gimnasia-localizada" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia Localizada</span></a></li>
+<li><a href="#14-fitness-93-kangoo-jumps" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Kangoo Jumps</span></a></li>
+<li><a href="#14-fitness-94-rpm" class="" data-toggle="tab" style="color:#5a4cdf;"><span>RPM</span></a></li>
+<li><a href="#14-fitness-96-sport-pilates" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sport Pilates</span></a></li>
+<li><a href="#14-fitness-97-sport-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sport Training</span></a></li>
+<li><a href="#14-fitness-99-stretching" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Stretching</span></a></li>
+<li><a href="#14-fitness-100-x55" class="" data-toggle="tab" style="color:#5a4cdf;"><span>X55</span></a></li>
+<li><a href="#14-fitness-101-yoga" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Yoga</span></a></li>
+<li><a href="#14-fitness-119-basquet-adultos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Basquet adultos</span></a></li>
+<li><a href="#14-fitness-120-basquet-infantil" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Basquet infantil</span></a></li>
+<li><a href="#14-fitness-124-futbol-adolescentes" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fútbol adolescentes </span></a></li>
+<li><a href="#14-fitness-125-futbol-adultos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Futbol adultos</span></a></li>
+<li><a href="#14-fitness-126-futbol-infantil" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Futbol Infantil</span></a></li>
+<li><a href="#14-fitness-129-gym-total" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gym Total</span></a></li>
+<li><a href="#14-fitness-130-hard-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Hard Training</span></a></li>
+<li><a href="#14-fitness-132-pilates-mat" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Pilates Mat</span></a></li>
+<li><a href="#14-fitness-134-powerflex" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Powerflex</span></a></li>
+<li><a href="#14-fitness-137-ritmos-latinos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Ritmos Latinos</span></a></li>
+<li><a href="#14-fitness-139-taller-de-abdominales" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller de Abdominales</span></a></li>
+<li><a href="#14-fitness-140-talleres-corporales" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Talleres Corporales</span></a></li>
+<li><a href="#14-fitness-141-voley-adultos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Voley adultos</span></a></li>
+<li><a href="#14-fitness-142-zumba" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Zumba</span></a></li>
+<li><a href="#14-fitness-144-abdominal-power" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Abdominal power</span></a></li>
+<li><a href="#14-fitness-145-fight-do" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fight Do</span></a></li>
+<li><a href="#14-fitness-146-local-mix-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local Mix Training</span></a></li>
+<li><a href="#14-fitness-147-sportfunctional" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportFunctional</span></a></li>
+<li><a href="#14-fitness-149-aero-mix" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aero Mix</span></a></li>
+<li><a href="#14-fitness-150-bloque-abdominales" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Bloque abdominales</span></a></li>
+<li><a href="#14-fitness-151-kimax" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Kimax</span></a></li>
+<li><a href="#14-fitness-152-power-jump" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power Jump</span></a></li>
+<li><a href="#14-fitness-154-super-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Súper Local</span></a></li>
+<li><a href="#14-fitness-155-energy-fit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Energy Fit</span></a></li>
+<li><a href="#14-fitness-157-entrenamiento-funcional" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Entrenamiento Funcional</span></a></li>
+<li><a href="#14-fitness-158-power-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power Local</span></a></li>
+<li><a href="#14-fitness-159-ubound" class="" data-toggle="tab" style="color:#5a4cdf;"><span>UBound</span></a></li>
+<li><a href="#14-fitness-160-cross-box-trainning" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Cross Box Trainning</span></a></li>
+<li><a href="#14-fitness-162-localizada-int" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Localizada Int.</span></a></li>
+<li><a href="#14-fitness-163-tai-chi-chuan" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Tai Chi Chuan</span></a></li>
+<li><a href="#14-fitness-164-boxeo-recreativo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Boxeo Recreativo</span></a></li>
+<li><a href="#14-fitness-165-box-trainning" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Box Trainning</span></a></li>
+<li><a href="#14-fitness-168-gym-p-mayores" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gym p/mayores</span></a></li>
+<li><a href="#14-fitness-170-sportcycle-express" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportCycle express</span></a></li>
+<li><a href="#14-fitness-171-taekwondo-adultos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taekwondo (adultos)</span></a></li>
+<li><a href="#14-fitness-174-local-bar" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local Bar</span></a></li>
+<li><a href="#14-fitness-175-taller-de-estiramiento" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller de estiramiento</span></a></li>
+<li><a href="#14-fitness-177-ritmos-latinos-intensivo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Ritmos Latinos Intensivo</span></a></li>
+<li><a href="#14-fitness-179-sh-bam" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sh Bam</span></a></li>
+<li><a href="#14-fitness-180-gimnasia-correctiva" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia correctiva</span></a></li>
+<li><a href="#14-fitness-183-sport-dance-infantil" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sport Dance infantil</span></a></li>
+<li><a href="#14-fitness-184-taller-gap" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller Gap</span></a></li>
+<li><a href="#14-fitness-185-pilates-stretching" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Pilates/ Stretching</span></a></li>
+<li><a href="#14-fitness-188-taller-sport-functional-30" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller Sport Functional 30'</span></a></li>
+<li><a href="#14-fitness-189-interval-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Interval training</span></a></li>
+<li><a href="#14-fitness-190-super-workout" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Super Workout</span></a></li>
+<li><a href="#14-fitness-193-patin-infantil" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Patin infantil</span></a></li>
+<li><a href="#14-fitness-194-salidas-a-correr" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Salidas a correr</span></a></li>
+<li><a href="#14-fitness-195-power-fit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power Fit</span></a></li>
+<li><a href="#14-fitness-196-spinning" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Spinning</span></a></li>
+<li><a href="#14-fitness-197-entrenamiento" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Entrenamiento</span></a></li>
+<li><a href="#14-fitness-201-modulo-senior-gimnasia" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Módulo Senior Gimnasia</span></a></li>
+<li><a href="#14-fitness-203-sport-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sport Local </span></a></li>
+<li><a href="#14-fitness-205-mananas-posturales" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Mañanas Posturales</span></a></li>
+<li><a href="#14-fitness-206-ritmos-recreativos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Ritmos Recreativos</span></a></li>
+<li><a href="#14-fitness-208-deportraining" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Deportraining</span></a></li>
+<li><a href="#14-fitness-209-muevelo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Muevelo</span></a></li>
+<li><a href="#14-fitness-210-speed-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Speed Local</span></a></li>
+<li><a href="#14-fitness-212-step" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Step</span></a></li>
+<li><a href="#14-fitness-213-clase-de-salsa" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Clase de salsa</span></a></li>
+<li><a href="#14-fitness-215-mix-dance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Mix Dance</span></a></li>
+<li><a href="#14-fitness-216-100-gluteos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>100% Glúteos</span></a></li>
+<li><a href="#14-fitness-217-100-abdominales" class="" data-toggle="tab" style="color:#5a4cdf;"><span>100% abdominales</span></a></li>
+<li><a href="#14-fitness-220-sportcycle-virtual" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportCycle Virtual</span></a></li>
+<li><a href="#14-fitness-221-power" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power</span></a></li>
+<li><a href="#14-fitness-224-localizada" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Localizada</span></a></li>
+<li><a href="#14-fitness-227-kropp-3d" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Kropp 3D</span></a></li>
+<li><a href="#14-fitness-228-power-yoga" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power Yoga</span></a></li>
+<li><a href="#14-fitness-229-pilates" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Pilates</span></a></li>
+<li><a href="#14-fitness-230-boxeo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Boxeo</span></a></li>
+<li><a href="#14-fitness-232-abdominales" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Abdominales</span></a></li>
+<li><a href="#14-fitness-233-futbol-infantil-9-a-11-an-os" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fútbol Infantil / 9 a 11 AÑOS</span></a></li>
+<li><a href="#14-fitness-234-futbol-infantil-6-a-8-an-os" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fútbol Infantil / 6 a 8 AÑOS</span></a></li>
+<li><a href="#14-fitness-235-futbol-infantil-12-a-15-an-os" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fútbol Infantil / 12 a 15 AÑOS</span></a></li>
+<li><a href="#14-fitness-236-gimnasia-ritmica-6-a-16-anos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia Rítmica (6 a 16 años)</span></a></li>
+<li><a href="#14-fitness-238-kangoo-power" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Kangoo Power</span></a></li>
+<li><a href="#14-fitness-239-aero-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aero Local</span></a></li>
+<li><a href="#14-fitness-241-hatha-yoga" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Hatha Yoga</span></a></li>
+<li><a href="#14-fitness-242-eutonia" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Eutonia</span></a></li>
+<li><a href="#14-fitness-243-latino" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Latino</span></a></li>
+<li><a href="#14-fitness-245-cross-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Cross Training</span></a></li>
+<li><a href="#14-fitness-250-aero-gap" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aero Gap</span></a></li>
+<li><a href="#14-fitness-251-ptm" class="" data-toggle="tab" style="color:#5a4cdf;"><span>PTM</span></a></li>
+<li><a href="#14-fitness-256-circuit-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Circuit Training</span></a></li>
+<li><a href="#14-fitness-258-duatlon-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Duatlon Training</span></a></li>
+<li><a href="#14-fitness-260-gimnasia-postural" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia postural</span></a></li>
+<li><a href="#14-fitness-262-power-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power Local</span></a></li>
+<li><a href="#14-fitness-264-circuit-fem" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Circuit-Fem</span></a></li>
+<li><a href="#14-fitness-265-pilates-reformer" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Pilates Reformer</span></a></li>
+<li><a href="#14-fitness-269-taller-de-gluteos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller de Gluteos</span></a></li>
+<li><a href="#14-fitness-270-flexsport" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Flexsport</span></a></li>
+<li><a href="#14-fitness-271-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local</span></a></li>
+<li><a href="#14-fitness-275-cx-works" class="" data-toggle="tab" style="color:#5a4cdf;"><span>CX-Works</span></a></li>
+<li><a href="#14-fitness-276-hockey-infantil" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Hockey Infantil</span></a></li>
+<li><a href="#14-fitness-277-esferodinamia" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Esferodinamia</span></a></li>
+<li><a href="#14-fitness-279-taller-postural" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller Postural</span></a></li>
+<li><a href="#14-fitness-281-metodo-de-rose" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Método de Rose</span></a></li>
+<li><a href="#14-fitness-289-gap-55" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gap 55</span></a></li>
+<li><a href="#14-fitness-291-entrenamiento-de-combate" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Entrenamiento de combate</span></a></li>
+<li><a href="#14-fitness-308-aerobox" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aerobox</span></a></li>
+<li><a href="#14-fitness-312-rowing-class" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Rowing Class</span></a></li>
+<li><a href="#14-fitness-393-combate-urbano" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Combate Urbano</span></a></li>
+<li><a href="#14-fitness-414-all-level" class="" data-toggle="tab" style="color:#5a4cdf;"><span>All Level</span></a></li>
+<li><a href="#14-fitness-432-local-functional" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local Functional</span></a></li>
+<li><a href="#14-fitness-433-local-strech" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local Strech</span></a></li>
+<li><a href="#14-fitness-560-full-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Full Local</span></a></li>
+<li><a href="#14-fitness-565-xtreme-fusion" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Xtreme Fusion</span></a></li>
+<li><a href="#14-fitness-568-aerolocal" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aerolocal</span></a></li>
+<li><a href="#14-fitness-575-total-body" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Total Body</span></a></li>
+<li><a href="#14-fitness-580-aero-step" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aero Step</span></a></li>
+<li><a href="#14-fitness-583-step-dance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Step Dance</span></a></li>
+<li><a href="#14-fitness-591-baile" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Baile</span></a></li>
+<li><a href="#14-fitness-592-fit-combat" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fit Combat</span></a></li>
+<li><a href="#14-fitness-619-local-flex" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local-Flex </span></a></li>
+<li><a href="#14-fitness-620-flexibilidad" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Flexibilidad</span></a></li>
+<li><a href="#14-fitness-625-power-stretching" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power Stretching</span></a></li>
+<li><a href="#14-fitness-646-gimnasia-deportiva-f-molinari-ninos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia Deportiva F. Molinari - Niños</span></a></li>
+<li><a href="#14-fitness-647-gimnasia-deportiva-f-molinari-adultos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia Deportiva F. Molinari - Adultos</span></a></li>
+<li><a href="#14-fitness-648-gimnasia-deportiva-f-molinari-bebes" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia Deportiva F. Molinari Bebes</span></a></li>
+<li><a href="#14-fitness-649-gimnasia-deportiva-f-molinari-nenas" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia Deportiva F. Molinari Nenas </span></a></li>
+<li><a href="#14-fitness-650-gimnasia-deportiva-f-molinari-varones" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gimnasia Deportiva F. Molinari Varones</span></a></li>
+<li><a href="#14-fitness-652-aqua-functional" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aqua Functional</span></a></li>
+<li><a href="#14-fitness-686-power-hiit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Power Hiit</span></a></li>
+<li><a href="#14-fitness-692-high-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>High Training</span></a></li>
+<li><a href="#14-fitness-693-local-xtreme" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local Xtreme</span></a></li>
+<li><a href="#14-fitness-694-be-power" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Be Power</span></a></li>
+<li><a href="#14-fitness-699-acroyoga" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Acroyoga</span></a></li>
+<li><a href="#14-fitness-702-abs-hiit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Abs + Hiit</span></a></li>
+<li><a href="#14-fitness-703-dance-a-terre" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Dance a Terre</span></a></li>
+<li><a href="#14-fitness-705-aero-kick-boxing" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Aero Kick Boxing</span></a></li>
+ <li><a href="#14-fitness-709-fit-girls" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fit Girls</span></a></li>
+<li><a href="#14-fitness-715-karate" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Karate</span></a></li>
+<li><a href="#14-fitness-721-hidro-pilates" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Hidro Pilates</span></a></li>
+<li><a href="#14-fitness-722-sportbox-junior" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportBox Junior</span></a></li>
+<li><a href="#14-fitness-723-sportbox-mixto" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportBox Mixto</span></a></li>
+<li><a href="#14-fitness-742-sportband" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportBand</span></a></li>
+<li><a href="#14-fitness-749-step-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Step Local</span></a></li>
+<li><a href="#14-fitness-752-strong-functional" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Strong Functional</span></a></li>
+<li><a href="#14-fitness-759-fit-dance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>FIT Dance</span></a></li>
+<li><a href="#14-fitness-763-mindfulness" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Mindfulness</span></a></li>
+<li><a href="#14-fitness-765-fit-fem" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fit Fem </span></a></li>
+<li><a href="#14-fitness-767-flexi-balance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Flexi-Balance</span></a></li>
+<li><a href="#14-fitness-770-equi-balance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Equi-Balance</span></a></li>
+<li><a href="#14-fitness-771-sportcross" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportCross</span></a></li>
+<li><a href="#14-fitness-778-sport-ritmos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sport Ritmos</span></a></li>
+<li><a href="#14-fitness-780-tela-acrobatica-5-a-7-anos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Tela Acrobática 5 a 7 años</span></a></li>
+<li><a href="#14-fitness-781-tela-acrobatica-8-a-13-anos" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Tela Acrobática 8 a 13 años</span></a></li>
+<li><a href="#14-fitness-783-body-power" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Body Power</span></a></li>
+<li><a href="#14-fitness-784-sportcycle-xl-90" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sportcycle XL 90</span></a></li>
+<li><a href="#14-fitness-789-fit-box" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fit Box </span></a></li>
+<li><a href="#14-fitness-792-flow" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Flow</span></a></li>
+<li><a href="#14-fitness-793-hiitboxcycle" class="" data-toggle="tab" style="color:#5a4cdf;"><span>HiitBoxCycle</span></a></li>
+<li><a href="#14-fitness-794-dance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Dance</span></a></li>
+<li><a href="#14-fitness-795-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Training</span></a></li>
+<li><a href="#14-fitness-801-signature" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Signature</span></a></li>
+<li><a href="#14-fitness-803-original" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Original</span></a></li>
+<li><a href="#14-fitness-804-open-studio" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Open Studio</span></a></li>
+<li><a href="#14-fitness-818-55-fit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>+55 Fit</span></a></li>
+<li><a href="#14-fitness-819-vinyasa-flow" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Vinyasa Flow</span></a></li>
+<li><a href="#14-fitness-820-fitdance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>FitDance</span></a></li>
+<li><a href="#14-fitness-822-fitstrength" class="" data-toggle="tab" style="color:#5a4cdf;"><span>FitStrength</span></a></li>
+<li><a href="#14-fitness-823-fit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>+FIT</span></a></li>
+<li><a href="#14-fitness-825-ppt" class="" data-toggle="tab" style="color:#5a4cdf;"><span>PPT</span></a></li>
+<li><a href="#14-fitness-826-taller-flex" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller FLEX</span></a></li>
+<li><a href="#14-fitness-836-kangoo-power-avanzados" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Kangoo Power (Avanzados)</span></a></li>
+<li><a href="#14-fitness-837-kangoo-power-principiantes" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Kangoo Power (Principiantes)</span></a></li>
+<li><a href="#14-fitness-842-pdp-ninos-y-adolescentes" class="" data-toggle="tab" style="color:#5a4cdf;"><span>PDP Niños y adolescentes</span></a></li>
+<li><a href="#14-fitness-845-adultos-mayores" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Adultos mayores</span></a></li>
+<li><a href="#14-fitness-846-yoga-terapeutico" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Yoga Terapéutico</span></a></li>
+<li><a href="#14-fitness-847-yoga-integral" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Yoga Integral</span></a></li>
+<li><a href="#14-fitness-853-latin-gap" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Latin GAP</span></a></li>
+<li><a href="#14-fitness-854-100-stretch" class="" data-toggle="tab" style="color:#5a4cdf;"><span>100% Stretch</span></a></li>
+<li><a href="#14-fitness-855-hiit-box" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Hiit Box</span></a></li>
+<li><a href="#14-fitness-857-aerojump" class="" data-toggle="tab" style="color:#5a4cdf;"><span>AeroJump</span></a></li>
+<li><a href="#14-fitness-858-stretchyoga" class="" data-toggle="tab" style="color:#5a4cdf;"><span>StretchYoga</span></a></li>
+<li><a href="#14-fitness-859-lady-functional" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Lady Functional </span></a></li>
+<li><a href="#14-fitness-863-indoor-force" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Indoor-Force</span></a></li>
+<li><a href="#14-fitness-866-entrenamiento-de-titanes" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Entrenamiento de Titanes</span></a></li>
+<li><a href="#14-fitness-870-movimiento-vital-expresivo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Movimiento Vital Expresivo</span></a></li>
+<li><a href="#14-fitness-876-yoga-stretching" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Yoga+Stretching</span></a></li>
+ <li><a href="#14-fitness-878-taller-100-abdominales-30" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Taller 100% Abdominales 30'</span></a></li>
+<li><a href="#14-fitness-885-full-body" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Full Body</span></a></li>
+<li><a href="#14-fitness-887-ashtanga-yoga" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Ashtanga Yoga</span></a></li>
+<li><a href="#14-fitness-888-postural-flex" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Postural Flex</span></a></li>
+<li><a href="#14-fitness-891-esfero-pilates" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Esfero Pilates</span></a></li>
+<li><a href="#14-fitness-893-arabian-fit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Arabian Fit</span></a></li>
+<li><a href="#14-fitness-894-boxeofit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>BoxeoFit</span></a></li>
+<li><a href="#14-fitness-896-full-core" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Full Core</span></a></li>
+<li><a href="#14-fitness-900-mujeres-fit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Mujeres Fit</span></a></li>
+<li><a href="#14-fitness-904-gpg" class="" data-toggle="tab" style="color:#5a4cdf;"><span>GPG</span></a></li>
+<li><a href="#14-fitness-906-sport-relax" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sport Relax</span></a></li>
+<li><a href="#14-fitness-908-local-strong" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local Strong</span></a></li>
+<li><a href="#14-fitness-917-woman-fit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Woman Fit</span></a></li>
+<li><a href="#14-fitness-918-yoga-dinamico" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Yoga Dinámico</span></a></li>
+<li><a href="#14-fitness-921-gym-local" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Gym Local</span></a></li>
+<li><a href="#14-fitness-922-stretching-activo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Stretching Activo</span></a></li>
+<li><a href="#14-fitness-979-animal-flow" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Animal Flow</span></a></li>
+<li><a href="#14-fitness-981-sport-dance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Sport Dance</span></a></li>
+<li><a href="#14-fitness-989-strength-program" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Strength Program</span></a></li>
+<li><a href="#14-fitness-993-dance-style" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Dance Style</span></a></li>
+<li><a href="#14-fitness-994-local-interval" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Local Interval</span></a></li>
+<li><a href="#14-fitness-995-fusion" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Fusion</span></a></li>
+<li><a href="#14-fitness-996-contemporaneo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Contemporáneo</span></a></li>
+<li><a href="#14-fitness-997-jazz-fusion" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Jazz Fusion</span></a></li>
+<li><a href="#14-fitness-998-coreografia" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Coreografía</span></a></li>
+<li><a href="#14-fitness-999-functional-flow" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Functional Flow</span></a></li>
+<li><a href="#14-fitness-1001-bioenergia" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Bioenergía</span></a></li>
+<li><a href="#14-fitness-1003-yogafit" class="" data-toggle="tab" style="color:#5a4cdf;"><span>YogaFit</span></a></li>
+<li><a href="#14-fitness-1015-sportfunctional-para-adolescentes" class="" data-toggle="tab" style="color:#5a4cdf;"><span>SportFunctional para Adolescentes</span></a></li>
+<li><a href="#14-fitness-1018-tae-bo" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Tae Bo</span></a></li>
+<li><a href="#14-fitness-1020-defensa-personal" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Defensa Personal</span></a></li>
+<li><a href="#14-fitness-1021-pole-dance" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Pole Dance</span></a></li>
+<li><a href="#14-fitness-1040-mix-training" class="" data-toggle="tab" style="color:#5a4cdf;"><span>Mix Training</span></a></li>
+</ul>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-80-aero-box">
+<span class="activity-title" style="color:#5a4cdf;">Aero Box</span>
+<p>Clase aeróbica de Alta intensidad,&nbsp;en la cual se utilizan las técnicas del Kick Boxing (Boxeo con patadas) pero sin contacto físico. Es igual al Tae Bo.<br>
+- Mejora la agilidad y consume gran cantidad de calorías.<br>
+- Se obtienen resultados en el corto plazo<br>
+- Importante pérdida de peso y disminución de la flacidez</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-81-aero-latino">
+<span class="activity-title" style="color:#5a4cdf;">Aero Latino</span>
+<p>La clase ideal para transpirar, perder calorías, y al mismo tiempo, divertirse con ritmos de canciones latinas, salsa, axe, merengue, cha cha cha, etc.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-83-body-attack">
+<span class="activity-title" style="color:#5a4cdf;">Body Attack</span>
+<p>Intensidad:<br>
+• Alta<br>
+<br>
+Dirigido a:&nbsp;<br>
+• Hombres y mujeres que disfruten del entrenamiento muscular intenso.<br>
+<br>
+Recomendada:&nbsp;<br>
+• Intermedios y Avanzados<br>
+<br>
+Descripción:<br>
+• Acondicionamiento físico cardiovascular que utiliza la metodología de intervalos, combinando ejercicios aeróbicos de alta intensidad con trabajos de fuerza y estabilización.<br>
+• Cuenta con un alto grado de motivación y con movimientos simples y fáciles de seguir.<br>
+<br>
+Beneficios:<br>
+• Consume muchas calorías.<br>
+• Mejora rápidamente la resistencia general.<br>
+• Aumenta la fuerza muscular.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-84-body-balance">
+<span class="activity-title" style="color:#5a4cdf;">Body Balance</span>
+<p>Intensidad:<br>
+• Baja<br>
+<br>
+Descripción:<br>
+• Clase de baja inetnsidad que combina yoga, tai chi y pilates<br>
+• Es muy relajante y equilibrante para el cuerpo<br>
+• Disminuye el stress<br>
+<br>
+Beneficios:<br>
+• Corrige deficiencias posturales y mejora la fexibilidad y el equilibrio<br>
+• Dominio total del propio cuerpo<br>
+• Disminuye el estrés</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-85-body-combat">
+ <span class="activity-title" style="color:#5a4cdf;">Body Combat</span>
+<p>Intensidad:<br>
+• Mediana<br>
+• Alta<br>
+<br>
+Descripción:<br>
+• Combina técnicas de las artes marciales y el boxeo, les pone buena música y hace una clase de la que todos pueden participar.<br>
+• Es como el Tae Bo dividido en tracks con músicas distintas.<br>
+<br>
+Beneficios:<br>
+• Mejora la agilidad y consume gran cantidad de calorías.<br>
+• Se obtienen resultados en el corto plazo<br>
+• Importante pérdida de peso y disminución de la flaccidez</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-87-body-pump">
+<span class="activity-title" style="color:#5a4cdf;">Body Pump</span>
+<p>Intensidad:<br>
+• Mediana<br>
+• Alta<br>
+<br>
+Descripción:<br>
+• Toma los mejores ejercicos de la sala de musculación y les pone buena música<br>
+• Ejercicios fáciles de realizar.Mejora la resistencia muscular localizada<br>
+• Es como hacer musculación con música<br>
+<br>
+Beneficios:<br>
+• Aumento de la masa, la fuerza y resistencia muscular<br>
+• Corrige deficiencias posturales<br>
+• Pérdida de peso</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-89-body-step">
+<span class="activity-title" style="color:#5a4cdf;">Body Step</span>
+<p>Es una clase de entrenamiento cardiovascular a intervalos, que utiliza el step como una herramienta de motivación y desafío. Su característica simple, atlética y poderosa, atrae a todos aquellos que tiene ganas de entrenar y divertirse.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-91-gap">
+<span class="activity-title" style="color:#5a4cdf;">GAP</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-92-gimnasia-localizada">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia Localizada</span>
+<p>La gimnasia localizada produce importantes beneficios a nivel locomotor, ya que mejora la condición física en general, y en especial la fuerza y la resistencia. En las clases se utilizan mancuernas o bandas elásticas.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-93-kangoo-jumps">
+<span class="activity-title" style="color:#5a4cdf;">Kangoo Jumps</span>
+<p>KANGOO JUMPS es un calzado de&nbsp;<strong>menor impacto&nbsp;</strong>en el mundo, reduce el impacto hasta un 80% y permite realizar todo tipo de actividades protegiendo al máximo las articulaciones y previniendo todo tipo de lesiones.<br>
+En SportClub damos dos programas:<br>
+<br>
+El&nbsp;<strong>Kangoo Power</strong>&nbsp;es un programa diseñado para clases colectivas basado en el entrenamiento de ejercicios pliométricos acompañado de música, en donde la estructura es simple, se realizan patrones de movimientos sin coreografía. Es un entrenamiento de interval training.<br>
+<br>
+<strong>Kangoo Boot Camp</strong>&nbsp;es un divertido programa suave de entrenamiento al estilo militar. Este desafío al aire libre te hará trabajar aumentando los niveles de fitness y resistencia al mismo tiempo se pierde grasa sin necesidad de una clase de aeróbic o danza.<br>
+Combina correr sobre diversos tipos de terreno mientras protege tu cuerpo, reduciendo el impacto.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-94-rpm">
+<span class="activity-title" style="color:#5a4cdf;">RPM</span>
+<p>Es un programa de ciclismo indoor que busca el desarrollo de la capacidad cardiovascular y significa un gasto de alrededor de 800 calorías por sesión. Además de eso, es uno de los programas más motivantes, ya que utiliza la mejor música del momento combinada con los mejores flash-backs.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-96-sport-pilates">
+<span class="activity-title" style="color:#5a4cdf;">Sport Pilates</span>
+<p>Se basa en movimientos lentos, suaves, con pocas repeticiones, pero de mucha precisión. Son movimientos de bajo impacto, por lo tanto no hay&nbsp; riesgo de lesiones en la columna vertebral ni las articulaciones.&nbsp;<br>
+<br>
+Beneficios:&nbsp;<br>
+Estiliza las piernas, endurece los brazos y el abdomen, afina la cadera y levanta los glúteos.&nbsp;<br>
+Ayuda a corregir la postura, y se trabaja en la correcta alineación del cuerpo.&nbsp;<br>
+Combina fuerza, resistencia y flexibilidad en los músculos, aumentando el control del&nbsp; cuerpo.&nbsp;<br>
+&nbsp;Ayuda a dormir mejor, ya que tonifica los músculos tensos por el estrés y relaja la mente.&nbsp;<br>
+Mejora la circulación sanguínea y activa el sistema linfático.&nbsp;<br>
+Sirve como terapia para curar lesiones, y alivia las tensiones de cuello y hombros.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-97-sport-training">
+<span class="activity-title" style="color:#5a4cdf;">Sport Training</span>
+<p>Es una clase intensa donde se trabajan diferentes cualidades físicas (fuerza, resistencia, flexibilidad, etc.) en circuitos en los que se combina actividad aeróbica, localizada y estiramientos con movimientos básicos, desplazamientos, etc., pudiendo incorporar diferentes elementos durante su práctica.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-99-stretching">
+<span class="activity-title" style="color:#5a4cdf;">Stretching</span>
+<p>Se trata de una clase sin coreografía en la que se trabaja la flexibilidad a través de la elongación muscular y la movilidad articular.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-100-x55">
+<span class="activity-title" style="color:#5a4cdf;">X55</span>
+<p>Se trabaja el tren inferior con mucha fuerza e intensidad, a través de pequeños intervalos de trabajo, combinados con complementos del tren superior.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-101-yoga">
+<span class="activity-title" style="color:#5a4cdf;">Yoga</span>
+<p>En esta clase se trabaja la flexibilidad, tonicidad, concentración y coordinación en secuencias consecutivas de posturas que brindan a la clase dinamismo, manteniendo el cuerpo en armonía y equilibrio.</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-119-basquet-adultos">
+<span class="activity-title" style="color:#5a4cdf;">Basquet adultos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-120-basquet-infantil">
+<span class="activity-title" style="color:#5a4cdf;">Basquet infantil</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-124-futbol-adolescentes">
+<span class="activity-title" style="color:#5a4cdf;">Fútbol adolescentes </span>
+<p>13 y 16 años</p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-125-futbol-adultos">
+ <span class="activity-title" style="color:#5a4cdf;">Futbol adultos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-126-futbol-infantil">
+<span class="activity-title" style="color:#5a4cdf;">Futbol Infantil</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-129-gym-total">
+<span class="activity-title" style="color:#5a4cdf;">Gym Total</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-130-hard-training">
+<span class="activity-title" style="color:#5a4cdf;">Hard Training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-132-pilates-mat">
+<span class="activity-title" style="color:#5a4cdf;">Pilates Mat</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-134-powerflex">
+<span class="activity-title" style="color:#5a4cdf;">Powerflex</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-137-ritmos-latinos">
+<span class="activity-title" style="color:#5a4cdf;">Ritmos Latinos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-139-taller-de-abdominales">
+<span class="activity-title" style="color:#5a4cdf;">Taller de Abdominales</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-140-talleres-corporales">
+<span class="activity-title" style="color:#5a4cdf;">Talleres Corporales</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-141-voley-adultos">
+<span class="activity-title" style="color:#5a4cdf;">Voley adultos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-142-zumba">
+<span class="activity-title" style="color:#5a4cdf;">Zumba</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-144-abdominal-power">
+<span class="activity-title" style="color:#5a4cdf;">Abdominal power</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-145-fight-do">
+<span class="activity-title" style="color:#5a4cdf;">Fight Do</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-146-local-mix-training">
+<span class="activity-title" style="color:#5a4cdf;">Local Mix Training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-147-sportfunctional">
+<span class="activity-title" style="color:#5a4cdf;">SportFunctional</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-149-aero-mix">
+<span class="activity-title" style="color:#5a4cdf;">Aero Mix</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-150-bloque-abdominales">
+<span class="activity-title" style="color:#5a4cdf;">Bloque abdominales</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-151-kimax">
+<span class="activity-title" style="color:#5a4cdf;">Kimax</span>
+<p></p>
+</div>
+ <div role="tabpanel" class="tab-pane fade" id="14-fitness-152-power-jump">
+<span class="activity-title" style="color:#5a4cdf;">Power Jump</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-154-super-local">
+<span class="activity-title" style="color:#5a4cdf;">Súper Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-155-energy-fit">
+<span class="activity-title" style="color:#5a4cdf;">Energy Fit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-157-entrenamiento-funcional">
+<span class="activity-title" style="color:#5a4cdf;">Entrenamiento Funcional</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-158-power-local">
+<span class="activity-title" style="color:#5a4cdf;">Power Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-159-ubound">
+<span class="activity-title" style="color:#5a4cdf;">UBound</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-160-cross-box-trainning">
+<span class="activity-title" style="color:#5a4cdf;">Cross Box Trainning</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-162-localizada-int">
+<span class="activity-title" style="color:#5a4cdf;">Localizada Int.</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-163-tai-chi-chuan">
+<span class="activity-title" style="color:#5a4cdf;">Tai Chi Chuan</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-164-boxeo-recreativo">
+<span class="activity-title" style="color:#5a4cdf;">Boxeo Recreativo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-165-box-trainning">
+<span class="activity-title" style="color:#5a4cdf;">Box Trainning</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-168-gym-p-mayores">
+<span class="activity-title" style="color:#5a4cdf;">Gym p/mayores</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-170-sportcycle-express">
+<span class="activity-title" style="color:#5a4cdf;">SportCycle express</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-171-taekwondo-adultos">
+<span class="activity-title" style="color:#5a4cdf;">Taekwondo (adultos)</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-174-local-bar">
+<span class="activity-title" style="color:#5a4cdf;">Local Bar</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-175-taller-de-estiramiento">
+<span class="activity-title" style="color:#5a4cdf;">Taller de estiramiento</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-177-ritmos-latinos-intensivo">
+<span class="activity-title" style="color:#5a4cdf;">Ritmos Latinos Intensivo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-179-sh-bam">
+<span class="activity-title" style="color:#5a4cdf;">Sh Bam</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-180-gimnasia-correctiva">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia correctiva</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-183-sport-dance-infantil">
+<span class="activity-title" style="color:#5a4cdf;">Sport Dance infantil</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-184-taller-gap">
+<span class="activity-title" style="color:#5a4cdf;">Taller Gap</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-185-pilates-stretching">
+<span class="activity-title" style="color:#5a4cdf;">Pilates/ Stretching</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-188-taller-sport-functional-30">
+<span class="activity-title" style="color:#5a4cdf;">Taller Sport Functional 30'</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-189-interval-training">
+<span class="activity-title" style="color:#5a4cdf;">Interval training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-190-super-workout">
+<span class="activity-title" style="color:#5a4cdf;">Super Workout</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-193-patin-infantil">
+<span class="activity-title" style="color:#5a4cdf;">Patin infantil</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-194-salidas-a-correr">
+<span class="activity-title" style="color:#5a4cdf;">Salidas a correr</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-195-power-fit">
+<span class="activity-title" style="color:#5a4cdf;">Power Fit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-196-spinning">
+<span class="activity-title" style="color:#5a4cdf;">Spinning</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-197-entrenamiento">
+<span class="activity-title" style="color:#5a4cdf;">Entrenamiento</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-201-modulo-senior-gimnasia">
+<span class="activity-title" style="color:#5a4cdf;">Módulo Senior Gimnasia</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-203-sport-local">
+<span class="activity-title" style="color:#5a4cdf;">Sport Local </span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-205-mananas-posturales">
+<span class="activity-title" style="color:#5a4cdf;">Mañanas Posturales</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-206-ritmos-recreativos">
+<span class="activity-title" style="color:#5a4cdf;">Ritmos Recreativos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-208-deportraining">
+<span class="activity-title" style="color:#5a4cdf;">Deportraining</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-209-muevelo">
+<span class="activity-title" style="color:#5a4cdf;">Muevelo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-210-speed-local">
+<span class="activity-title" style="color:#5a4cdf;">Speed Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-212-step">
+<span class="activity-title" style="color:#5a4cdf;">Step</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-213-clase-de-salsa">
+<span class="activity-title" style="color:#5a4cdf;">Clase de salsa</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-215-mix-dance">
+<span class="activity-title" style="color:#5a4cdf;">Mix Dance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-216-100-gluteos">
+<span class="activity-title" style="color:#5a4cdf;">100% Glúteos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-217-100-abdominales">
+<span class="activity-title" style="color:#5a4cdf;">100% abdominales</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-220-sportcycle-virtual">
+<span class="activity-title" style="color:#5a4cdf;">SportCycle Virtual</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-221-power">
+<span class="activity-title" style="color:#5a4cdf;">Power</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-224-localizada">
+<span class="activity-title" style="color:#5a4cdf;">Localizada</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-227-kropp-3d">
+<span class="activity-title" style="color:#5a4cdf;">Kropp 3D</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-228-power-yoga">
+<span class="activity-title" style="color:#5a4cdf;">Power Yoga</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-229-pilates">
+<span class="activity-title" style="color:#5a4cdf;">Pilates</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-230-boxeo">
+<span class="activity-title" style="color:#5a4cdf;">Boxeo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-232-abdominales">
+<span class="activity-title" style="color:#5a4cdf;">Abdominales</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-233-futbol-infantil-9-a-11-an-os">
+<span class="activity-title" style="color:#5a4cdf;">Fútbol Infantil / 9 a 11 AÑOS</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-234-futbol-infantil-6-a-8-an-os">
+<span class="activity-title" style="color:#5a4cdf;">Fútbol Infantil / 6 a 8 AÑOS</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-235-futbol-infantil-12-a-15-an-os">
+<span class="activity-title" style="color:#5a4cdf;">Fútbol Infantil / 12 a 15 AÑOS</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-236-gimnasia-ritmica-6-a-16-anos">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia Rítmica (6 a 16 años)</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-238-kangoo-power">
+<span class="activity-title" style="color:#5a4cdf;">Kangoo Power</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-239-aero-local">
+<span class="activity-title" style="color:#5a4cdf;">Aero Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-241-hatha-yoga">
+<span class="activity-title" style="color:#5a4cdf;">Hatha Yoga</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-242-eutonia">
+<span class="activity-title" style="color:#5a4cdf;">Eutonia</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-243-latino">
+<span class="activity-title" style="color:#5a4cdf;">Latino</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-245-cross-training">
+<span class="activity-title" style="color:#5a4cdf;">Cross Training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-250-aero-gap">
+<span class="activity-title" style="color:#5a4cdf;">Aero Gap</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-251-ptm">
+<span class="activity-title" style="color:#5a4cdf;">PTM</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-256-circuit-training">
+<span class="activity-title" style="color:#5a4cdf;">Circuit Training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-258-duatlon-training">
+<span class="activity-title" style="color:#5a4cdf;">Duatlon Training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-260-gimnasia-postural">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia postural</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-262-power-local">
+<span class="activity-title" style="color:#5a4cdf;">Power Local</span>
+ <p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-264-circuit-fem">
+<span class="activity-title" style="color:#5a4cdf;">Circuit-Fem</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-265-pilates-reformer">
+<span class="activity-title" style="color:#5a4cdf;">Pilates Reformer</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-269-taller-de-gluteos">
+<span class="activity-title" style="color:#5a4cdf;">Taller de Gluteos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-270-flexsport">
+<span class="activity-title" style="color:#5a4cdf;">Flexsport</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-271-local">
+<span class="activity-title" style="color:#5a4cdf;">Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-275-cx-works">
+<span class="activity-title" style="color:#5a4cdf;">CX-Works</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-276-hockey-infantil">
+<span class="activity-title" style="color:#5a4cdf;">Hockey Infantil</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-277-esferodinamia">
+<span class="activity-title" style="color:#5a4cdf;">Esferodinamia</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-279-taller-postural">
+<span class="activity-title" style="color:#5a4cdf;">Taller Postural</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-281-metodo-de-rose">
+<span class="activity-title" style="color:#5a4cdf;">Método de Rose</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-289-gap-55">
+<span class="activity-title" style="color:#5a4cdf;">Gap 55</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-291-entrenamiento-de-combate">
+<span class="activity-title" style="color:#5a4cdf;">Entrenamiento de combate</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-308-aerobox">
+<span class="activity-title" style="color:#5a4cdf;">Aerobox</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-312-rowing-class">
+<span class="activity-title" style="color:#5a4cdf;">Rowing Class</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-393-combate-urbano">
+<span class="activity-title" style="color:#5a4cdf;">Combate Urbano</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-414-all-level">
+<span class="activity-title" style="color:#5a4cdf;">All Level</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-432-local-functional">
+<span class="activity-title" style="color:#5a4cdf;">Local Functional</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-433-local-strech">
+ <span class="activity-title" style="color:#5a4cdf;">Local Strech</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-560-full-local">
+<span class="activity-title" style="color:#5a4cdf;">Full Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-565-xtreme-fusion">
+<span class="activity-title" style="color:#5a4cdf;">Xtreme Fusion</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-568-aerolocal">
+<span class="activity-title" style="color:#5a4cdf;">Aerolocal</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-575-total-body">
+<span class="activity-title" style="color:#5a4cdf;">Total Body</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-580-aero-step">
+<span class="activity-title" style="color:#5a4cdf;">Aero Step</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-583-step-dance">
+<span class="activity-title" style="color:#5a4cdf;">Step Dance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-591-baile">
+<span class="activity-title" style="color:#5a4cdf;">Baile</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-592-fit-combat">
+<span class="activity-title" style="color:#5a4cdf;">Fit Combat</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-619-local-flex">
+<span class="activity-title" style="color:#5a4cdf;">Local-Flex </span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-620-flexibilidad">
+<span class="activity-title" style="color:#5a4cdf;">Flexibilidad</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-625-power-stretching">
+<span class="activity-title" style="color:#5a4cdf;">Power Stretching</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-646-gimnasia-deportiva-f-molinari-ninos">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia Deportiva F. Molinari - Niños</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-647-gimnasia-deportiva-f-molinari-adultos">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia Deportiva F. Molinari - Adultos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-648-gimnasia-deportiva-f-molinari-bebes">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia Deportiva F. Molinari Bebes</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-649-gimnasia-deportiva-f-molinari-nenas">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia Deportiva F. Molinari Nenas </span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-650-gimnasia-deportiva-f-molinari-varones">
+<span class="activity-title" style="color:#5a4cdf;">Gimnasia Deportiva F. Molinari Varones</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-652-aqua-functional">
+<span class="activity-title" style="color:#5a4cdf;">Aqua Functional</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-686-power-hiit">
+<span class="activity-title" style="color:#5a4cdf;">Power Hiit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-692-high-training">
+<span class="activity-title" style="color:#5a4cdf;">High Training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-693-local-xtreme">
+<span class="activity-title" style="color:#5a4cdf;">Local Xtreme</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-694-be-power">
+<span class="activity-title" style="color:#5a4cdf;">Be Power</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-699-acroyoga">
+<span class="activity-title" style="color:#5a4cdf;">Acroyoga</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-702-abs-hiit">
+<span class="activity-title" style="color:#5a4cdf;">Abs + Hiit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-703-dance-a-terre">
+<span class="activity-title" style="color:#5a4cdf;">Dance a Terre</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-705-aero-kick-boxing">
+<span class="activity-title" style="color:#5a4cdf;">Aero Kick Boxing</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-709-fit-girls">
+<span class="activity-title" style="color:#5a4cdf;">Fit Girls</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-715-karate">
+<span class="activity-title" style="color:#5a4cdf;">Karate</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-721-hidro-pilates">
+<span class="activity-title" style="color:#5a4cdf;">Hidro Pilates</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-722-sportbox-junior">
+<span class="activity-title" style="color:#5a4cdf;">SportBox Junior</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-723-sportbox-mixto">
+<span class="activity-title" style="color:#5a4cdf;">SportBox Mixto</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-742-sportband">
+<span class="activity-title" style="color:#5a4cdf;">SportBand</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-749-step-local">
+<span class="activity-title" style="color:#5a4cdf;">Step Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-752-strong-functional">
+<span class="activity-title" style="color:#5a4cdf;">Strong Functional</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-759-fit-dance">
+<span class="activity-title" style="color:#5a4cdf;">FIT Dance</span>
+<p></p>
+ </div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-763-mindfulness">
+<span class="activity-title" style="color:#5a4cdf;">Mindfulness</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-765-fit-fem">
+<span class="activity-title" style="color:#5a4cdf;">Fit Fem </span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-767-flexi-balance">
+<span class="activity-title" style="color:#5a4cdf;">Flexi-Balance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-770-equi-balance">
+<span class="activity-title" style="color:#5a4cdf;">Equi-Balance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-771-sportcross">
+<span class="activity-title" style="color:#5a4cdf;">SportCross</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-778-sport-ritmos">
+<span class="activity-title" style="color:#5a4cdf;">Sport Ritmos</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-780-tela-acrobatica-5-a-7-anos">
+<span class="activity-title" style="color:#5a4cdf;">Tela Acrobática 5 a 7 años</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-781-tela-acrobatica-8-a-13-anos">
+<span class="activity-title" style="color:#5a4cdf;">Tela Acrobática 8 a 13 años</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-783-body-power">
+<span class="activity-title" style="color:#5a4cdf;">Body Power</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-784-sportcycle-xl-90">
+<span class="activity-title" style="color:#5a4cdf;">Sportcycle XL 90</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-789-fit-box">
+<span class="activity-title" style="color:#5a4cdf;">Fit Box </span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-792-flow">
+<span class="activity-title" style="color:#5a4cdf;">Flow</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-793-hiitboxcycle">
+<span class="activity-title" style="color:#5a4cdf;">HiitBoxCycle</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-794-dance">
+<span class="activity-title" style="color:#5a4cdf;">Dance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-795-training">
+<span class="activity-title" style="color:#5a4cdf;">Training</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-801-signature">
+<span class="activity-title" style="color:#5a4cdf;">Signature</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-803-original">
+<span class="activity-title" style="color:#5a4cdf;">Original</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-804-open-studio">
+<span class="activity-title" style="color:#5a4cdf;">Open Studio</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-818-55-fit">
+<span class="activity-title" style="color:#5a4cdf;">+55 Fit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-819-vinyasa-flow">
+<span class="activity-title" style="color:#5a4cdf;">Vinyasa Flow</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-820-fitdance">
+<span class="activity-title" style="color:#5a4cdf;">FitDance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-822-fitstrength">
+<span class="activity-title" style="color:#5a4cdf;">FitStrength</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-823-fit">
+<span class="activity-title" style="color:#5a4cdf;">+FIT</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-825-ppt">
+<span class="activity-title" style="color:#5a4cdf;">PPT</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-826-taller-flex">
+<span class="activity-title" style="color:#5a4cdf;">Taller FLEX</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-836-kangoo-power-avanzados">
+<span class="activity-title" style="color:#5a4cdf;">Kangoo Power (Avanzados)</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-837-kangoo-power-principiantes">
+<span class="activity-title" style="color:#5a4cdf;">Kangoo Power (Principiantes)</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-842-pdp-ninos-y-adolescentes">
+<span class="activity-title" style="color:#5a4cdf;">PDP Niños y adolescentes</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-845-adultos-mayores">
+<span class="activity-title" style="color:#5a4cdf;">Adultos mayores</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-846-yoga-terapeutico">
+<span class="activity-title" style="color:#5a4cdf;">Yoga Terapéutico</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-847-yoga-integral">
+<span class="activity-title" style="color:#5a4cdf;">Yoga Integral</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-853-latin-gap">
+<span class="activity-title" style="color:#5a4cdf;">Latin GAP</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-854-100-stretch">
+<span class="activity-title" style="color:#5a4cdf;">100% Stretch</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-855-hiit-box">
+<span class="activity-title" style="color:#5a4cdf;">Hiit Box</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-857-aerojump">
+<span class="activity-title" style="color:#5a4cdf;">AeroJump</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-858-stretchyoga">
+<span class="activity-title" style="color:#5a4cdf;">StretchYoga</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-859-lady-functional">
+<span class="activity-title" style="color:#5a4cdf;">Lady Functional </span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-863-indoor-force">
+<span class="activity-title" style="color:#5a4cdf;">Indoor-Force</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-866-entrenamiento-de-titanes">
+<span class="activity-title" style="color:#5a4cdf;">Entrenamiento de Titanes</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-870-movimiento-vital-expresivo">
+<span class="activity-title" style="color:#5a4cdf;">Movimiento Vital Expresivo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-876-yoga-stretching">
+<span class="activity-title" style="color:#5a4cdf;">Yoga+Stretching</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-878-taller-100-abdominales-30">
+<span class="activity-title" style="color:#5a4cdf;">Taller 100% Abdominales 30'</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-885-full-body">
+<span class="activity-title" style="color:#5a4cdf;">Full Body</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-887-ashtanga-yoga">
+<span class="activity-title" style="color:#5a4cdf;">Ashtanga Yoga</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-888-postural-flex">
+<span class="activity-title" style="color:#5a4cdf;">Postural Flex</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-891-esfero-pilates">
+<span class="activity-title" style="color:#5a4cdf;">Esfero Pilates</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-893-arabian-fit">
+<span class="activity-title" style="color:#5a4cdf;">Arabian Fit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-894-boxeofit">
+<span class="activity-title" style="color:#5a4cdf;">BoxeoFit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-896-full-core">
+<span class="activity-title" style="color:#5a4cdf;">Full Core</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-900-mujeres-fit">
+<span class="activity-title" style="color:#5a4cdf;">Mujeres Fit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-904-gpg">
+<span class="activity-title" style="color:#5a4cdf;">GPG</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-906-sport-relax">
+<span class="activity-title" style="color:#5a4cdf;">Sport Relax</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-908-local-strong">
+<span class="activity-title" style="color:#5a4cdf;">Local Strong</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-917-woman-fit">
+<span class="activity-title" style="color:#5a4cdf;">Woman Fit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-918-yoga-dinamico">
+<span class="activity-title" style="color:#5a4cdf;">Yoga Dinámico</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-921-gym-local">
+<span class="activity-title" style="color:#5a4cdf;">Gym Local</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-922-stretching-activo">
+<span class="activity-title" style="color:#5a4cdf;">Stretching Activo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-979-animal-flow">
+<span class="activity-title" style="color:#5a4cdf;">Animal Flow</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-981-sport-dance">
+<span class="activity-title" style="color:#5a4cdf;">Sport Dance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-989-strength-program">
+<span class="activity-title" style="color:#5a4cdf;">Strength Program</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-993-dance-style">
+<span class="activity-title" style="color:#5a4cdf;">Dance Style</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-994-local-interval">
+<span class="activity-title" style="color:#5a4cdf;">Local Interval</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-995-fusion">
+<span class="activity-title" style="color:#5a4cdf;">Fusion</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-996-contemporaneo">
+<span class="activity-title" style="color:#5a4cdf;">Contemporáneo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-997-jazz-fusion">
+<span class="activity-title" style="color:#5a4cdf;">Jazz Fusion</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-998-coreografia">
+<span class="activity-title" style="color:#5a4cdf;">Coreografía</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-999-functional-flow">
+<span class="activity-title" style="color:#5a4cdf;">Functional Flow</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-1001-bioenergia">
+<span class="activity-title" style="color:#5a4cdf;">Bioenergía</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-1003-yogafit">
+<span class="activity-title" style="color:#5a4cdf;">YogaFit</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-1015-sportfunctional-para-adolescentes">
+<span class="activity-title" style="color:#5a4cdf;">SportFunctional para Adolescentes</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-1018-tae-bo">
+<span class="activity-title" style="color:#5a4cdf;">Tae Bo</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-1020-defensa-personal">
+<span class="activity-title" style="color:#5a4cdf;">Defensa Personal</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-1021-pole-dance">
+<span class="activity-title" style="color:#5a4cdf;">Pole Dance</span>
+<p></p>
+</div>
+<div role="tabpanel" class="tab-pane fade" id="14-fitness-1040-mix-training">
+<span class="activity-title" style="color:#5a4cdf;">Mix Training</span>
+<p></p>
+</div>
+</div>
+

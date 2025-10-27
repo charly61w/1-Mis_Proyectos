@@ -1,0 +1,203 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  font-size: 18pt;
+  margin: 0;
+  padding: 0;
+}
+
+.contenedor {
+  max-width: 1280px;
+  width: 90%;
+  margin: auto;
+}
+
+.titular {
+  background-image: url(imagenes/fondo.png);
+  background-position: top;
+  height: 70vh;
+  background-size: contain;
+  background-repeat: no-repeat;
+  }
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+p{
+  font-size: 16px;
+  color: black;
+  text-align: justify;
+  margin: 14px;
+}
+
+h1{
+  margin: 0;
+}
+
+h2 {
+  text-align: center;
+  font-size: 80px;
+  font-weight: normal;
+}
+
+h3 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: normal;
+  margin-top: 130px;
+  margin-bottom: 2rem;
+}
+
+#texto1 {
+  font-size: 40px;
+  color: #00BFFF;
+}
+
+#texto1 span {
+  font-size: 40px;
+  color: green;
+}
+
+.social-bar {
+	position: fixed;
+	right: 0;
+	top: 40%;
+	font-size: 1.5rem;
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+	z-index: 100;
+}
+
+
+.icon {
+	color: white;
+	text-decoration: none;
+	padding: .7rem;
+	display: flex;
+	transition: all .5s;
+}
+
+.icon-facebook {
+	background: #2E406E;
+}
+
+.icon-whatsapp {
+	background: MediumSpringGreen;
+}
+
+.icon:first-child {
+	border-radius: 1rem 0 0 0;
+}
+
+.icon:last-child {
+	border-radius: 0 0 0 1rem;
+}
+
+.icon:hover {
+	padding-right: 3rem;
+	border-radius: 1rem 0 0 1rem;
+	box-shadow: 0 0 .5rem rgba(0, 0, 0, 0.42);
+}
+
+span {
+  font-size: 80px;
+  color: blue;
+}
+
+.contenedor-porque {
+padding-top: 30px;
+display: flex;
+justify-content: space-around;
+text-align: center;
+width: 100%;
+}
+
+.porque-singular {
+  width: 40%;
+}
+
+.contenedor-porque h4 {
+  margin-top: 4px;
+  font-size: 18px;
+  margin: 14;
+}
+
+.contenedor-porque p {
+  font-size: 13px;
+  line-height: 20px;
+  width: 90%;
+  margin-bottom: 100px;
+}
+
+.owl-nav {
+  text-align: center;
+  max-width: 100%;
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
+.owl-carousel {
+  justify-content: center;
+  height: 60%;
+}
+
+.footer {
+  background: #333;
+  padding: 0.5em 0;
+  text-align: center;
+  margin-top: 0.1rem;
+}
+
+.footer p {
+  font-size: 15px;
+  text-align: center;
+  color: white;
+}
+
+@media (max-width:480px) {
+
+  .titular {
+    background-image: url(imagenes/fondo.png);
+    background-position: center;
+    height: 70vh;
+    background-size: contain;
+    background-repeat: no-repeat;
+    }
+
+  .social-bar {
+  	right: 0;
+  	top: 68%;
+  	font-size: 1rem;
+  }
+
+  h3 {
+    font-size: 15px;
+  }
+
+  .contenedor-porque {
+    flex-direction: column;
+    padding: 0;
+  }
+  .porque-singular {
+  width: 95%;
+  }
+
+  .owl-nav {
+    text-align: center;
+    max-width: 100%;
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+
+}
+
+@media (min-width:700px) and (min-width:900px) {
+
+  .titular {
+    background-position: center;
+    }
+
+}

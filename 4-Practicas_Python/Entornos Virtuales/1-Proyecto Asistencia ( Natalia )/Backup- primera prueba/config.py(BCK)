@@ -1,0 +1,8 @@
+# Datos de conexión a MariaDB
+DB_CONFIG = {
+	'host': 'localhost',
+	'user': 'tu_usuario',
+	'password': 'tu_password',
+	'database': 'asistencia_db',
+	'port': 3306
+}

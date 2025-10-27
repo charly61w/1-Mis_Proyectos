@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Listado Completo de Alumnos</title>
+</head>
+<body>
+    <h1>Listado Completo de Alumnos</h1>
+    <table border="1" cellpadding="5">
+        <thead>
+            <tr>
+                <th>Nombre</th>
+                <th>Apellido</th>
+                <th>DNI</th>
+                <th>Tipo</th>
+                <th>Año Inscripción</th>
+            </tr>
+        </thead>
+        <tbody>
+            {% for alumno in alumnos %}
+            <tr>
+                <td>{{ alumno.nombre }}</td>
+                <td>{{ alumno.apellido }}</td>
+                <td>{{ alumno.documento }}</td>
+                <td>{{ alumno.tipo_documento }}</td>
+                <td>{{ alumno.anio_inscripcion }}</td>
+            </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+    <br>
+    <a href="{{ url_for('index') }}">⬅️ Volver al inicio</a>
+</body>
+</html>

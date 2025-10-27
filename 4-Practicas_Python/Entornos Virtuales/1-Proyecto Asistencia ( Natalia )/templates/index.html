@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Inicio - Control de Asistencia</title>
+</head>
+<body>
+    <h1>Listado reciente de alumnos</h1>
+    <ul>
+        {% for alumno in alumnos %}
+            <li>{{ alumno.nombre }} {{ alumno.apellido }} - {{ alumno.documento }}</li>
+        {% endfor %}
+    </ul>
+
+    <a href="{{ url_for('alumnos') }}">📋 Ver listado completo</a>
+
+    <h2>Agregar Alumno</h2>
+    <form method="POST" action="{{ url_for('agregar') }}">
+        <input type="text" name="nombre" placeholder="Nombre" required>
+        <input type="text" name="apellido" placeholder="Apellido" required>
+        <input type="text" name="documento" placeholder="Documento" required>
+        <select name="tipo">
+            <option value="DNI">DNI</option>
+            <option value="LC">LC</option>
+            <option value="LE">LE</option>
+        </select>
+        <input type="number" name="anio" placeholder="Año de inscripción" required>
+        <button type="submit">Agregar</button>
+    </form>
+</body>
+</html>

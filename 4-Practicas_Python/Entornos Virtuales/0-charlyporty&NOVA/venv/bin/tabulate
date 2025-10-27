@@ -1,0 +1,9 @@
+#!/bin/sh
+'''exec' "/home/charly/1-Mis_Proyectos/3_Python/Entornos Virtuales/Python_3.11/charlyporty&NOVA/venv/bin/python3" "$0" "$@"
+' '''
+import sys
+from tabulate import _main
+if __name__ == '__main__':
+    if sys.argv[0].endswith('.exe'):
+        sys.argv[0] = sys.argv[0][:-4]
+    sys.exit(_main())

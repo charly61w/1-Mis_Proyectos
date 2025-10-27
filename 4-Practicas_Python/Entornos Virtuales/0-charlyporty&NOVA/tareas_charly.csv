@@ -1,0 +1,4 @@
+ID,Fecha,Tarea,Estado,Prioridad,Notas
+1,2025-10-22,Configurar entorno NOVA v3.0,Completada,Alta,Preparar entorno en Cursor
+2,2025-10-22,Crear base de datos inicial,Pendiente,Media,MySQL/MariaDB
+- Corregir los 3 primeros items de NOVA v3.0
